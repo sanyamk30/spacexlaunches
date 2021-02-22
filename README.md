@@ -1,3 +1,29 @@
+# Tech Stack:
+* HTML
+* CSS
+* React
+* JSX
+* Javascript
+
+# Approach
+
+I started by making a react web app with boiler-plate code using npx create-react-app. 
+Then i figured out that i need three main components:
+* #### Filters - that will users to apply filters to the searches.
+* #### LaunchList -  the list of all the launches that the search operation will return.
+* #### LaunchItem - to display information of every launch individually.
+
+To make api calls to SpaceX api, i've used fetch command and then parse the json response.
+
+
+# Screenshots
+
+With no filters applied
+
+!(/Screenshot 2021-02-23 at 2.30.56 AM.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
