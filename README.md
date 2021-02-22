@@ -18,9 +18,7 @@ To make api calls to SpaceX api, i've used fetch command and then parse the json
 
 # Screenshots
 
-With no filters applied
-
-!(/Screenshot 2021-02-23 at 2.30.56 AM.png)
+Added in the github repo.
 
 
 
