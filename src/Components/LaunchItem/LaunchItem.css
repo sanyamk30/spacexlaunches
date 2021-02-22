@@ -1,0 +1,40 @@
+.LaunchItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 16.66rem;
+    margin: 0 .5rem 2.3rem .5rem;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  
+  .LaunchItem h2 {
+    margin-bottom: .5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+  }
+  
+  .launch-information {
+    justify-content: space-between;
+  }
+  
+  .launch-information p {
+    font-size: .88rem;
+    font-weight: 300;
+    line-height: 1rem;
+  }
+  
+  .launch-site {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .launch-details p {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+  
